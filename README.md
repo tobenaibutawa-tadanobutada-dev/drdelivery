@@ -13,3 +13,5 @@
 
 ---------------------------
 Event Storming
+
+![event_storming](https://user-images.githubusercontent.com/68858009/106541068-94966d80-6544-11eb-9ba7-5077b4fd39d9.png)
