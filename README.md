@@ -20,3 +20,8 @@ Event Storming
 DDD 적용
 
 ![ddd1](https://user-images.githubusercontent.com/68858009/106553608-0b3f6500-655d-11eb-915a-80ca868a852d.png)
+
+---------------------------
+폴리글랏
+
+![persistance](https://user-images.githubusercontent.com/68858009/106555764-902c7d80-6561-11eb-87e9-d80a66a4686f.png)
